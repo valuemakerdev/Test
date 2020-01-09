@@ -1,0 +1,20 @@
+<head>
+  <title>VALUE MAKERS</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <center>
+  <a href="1.main"><h1>VALUEMAKERS</h1></a>
+  <a><h2><strong><u>VALUE MAKERS</u> Portfolio</strong></h2></a>
+  (벨류메이커스 포트폴리오)
+  <p style="margin-top:20px;">가치를 만드는 사람들, 벨류메이커스</p>
+  <img src="light.jfif" width="400" >
+  </center>
+  <ol>
+    <a href="2.business"><li>Business</li></a>
+    <a href="3.promotion"><li>Promotion</li></a>
+    <a href="4.event"><li>Event</li></a>
+    <a href="5.education"><li>Education</li></a>
+  </ol>
+</body>
